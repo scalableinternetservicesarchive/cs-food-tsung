@@ -1,0 +1,5 @@
+*
+!.gitignore
+!.tsung/
+!.tsung/*
+!simple.xml
