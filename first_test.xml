@@ -9,7 +9,7 @@
 
   <!-- Server side setup -->
   <servers>
-    <server host="cs-food-master.dwhrmmxnpa.us-west-2.elasticbeanstalk.com" port="80" type="tcp"></server>
+    <server host="34.216.125.43" port="80" type="tcp"></server>
   </servers>
 
 
@@ -52,7 +52,6 @@
       </request>
       <thinktime value="2" random="true"></thinktime>
       <request url='/users' version='1.1' method='POST'
-
                contents='commit=Sign+up&
         user%5Bbirthday%5D=1900%2F10%2F10&
         user%5Bemail%5D=sdlkfj%40gmail.com&
