@@ -1,0 +1,42 @@
+/users/1
+/users
+/orders/new
+/orders/myorders
+/orders/mypicks
+/orders/myhistory
+/orders/5
+/orders/5/pick
+/orders/5/receive
+/items
+/items/1
+
+DELETING
+/orders/9?continue_to=%2Forders%2Fmyorders
+
+ORDER CREATION W/ ITEMS
+/orders/new
+/orders
+utf8=%E2%9C%93&authenticity_token=Tqu2bgWTgAZLAeVzyoLO464Zj5kP2qYPCZk8h5QH9HGmG2PiRz3yipKRD7%2BAgOuhY%2BDdZkYEz%2FNdKpKaeikaNA%3D%3D&
+order%5Btitle%5D=pizza&
+order%5Btext%5D=i+love+pizza%21&
+order%5Bitem_1%5D=&order%5Bitem_1_text%5D=peppies&
+order%5Bitem_2%5D=&order%5Bitem_2_text%5D=cheese&
+order%5Bitem_3%5D=&order%5Bitem_3_text%5D=crust&
+order%5Bitem_4%5D=&order%5Bitem_4_text%5D=anchoves&
+order%5Bitem_5%5D=&order%5Bitem_5_text%5D=brocolli&
+order%5Bpoints%5D=0&
+commit=Save+Order
+
+EDITTING ORDER
+/orders/11/edit
+utf8=%E2%9C%93&
+_method=patch&authenticity_token=g%2FlrTmeeAGGKFsCd6ECdTi2svOjhY88tJdvVW3X%2BBBQpReXzdhlEPDJLGCeWe3gNje7VGtJnydum2ycWjFeMfA%3D%3D&
+order%5Btitle%5D=pizza&
+order%5Btext%5D=i%20only%20like%20pizza%20as%20a%20friend&
+commit=Update%20Order
+
+ITEM CREATION
+/items/new
+utf8=%E2%9C%93&
+authenticity_token=APY8ukvxtEGYjKRtfz06PiPjr9Gn7PWZMdYAzADsqz0u3gQqcZw7gZVC04JtFsWxlnEOABQwTMaN0eBhRha1%2Bw%3D%3D&
+item%5Bname%5D=supwiddit&commit=Create+Item
