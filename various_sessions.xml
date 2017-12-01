@@ -48,11 +48,11 @@
               contents="commit=Save+Order&amp;
               order%5Btitle%5D=pizza&amp;
               order%5Btext%5D=i+love+pizza%21&amp;
-              order%5Bitem_1%5D=&amporder%5Bitem_1_text%5D=peppies&amp;
-              order%5Bitem_2%5D=&order%5Bitem_2_text%5D=cheese&amp;
-              order%5Bitem_3%5D=&order%5Bitem_3_text%5D=crust&amp;
-              order%5Bitem_4%5D=&order%5Bitem_4_text%5D=anchoves&amp;
-              order%5Bitem_5%5D=&order%5Bitem_5_text%5D=brocolli&amp;
+              order%5Bitem_1%5D=&amp;order%5Bitem_1_text%5D=peppies&amp;
+              order%5Bitem_2%5D=&amp;order%5Bitem_2_text%5D=cheese&amp;
+              order%5Bitem_3%5D=&amp;order%5Bitem_3_text%5D=crust&amp;
+              order%5Bitem_4%5D=&amp;order%5Bitem_4_text%5D=anchoves&amp;
+              order%5Bitem_5%5D=&amp;order%5Bitem_5_text%5D=brocolli&amp;
               order%5Bpoints%5D=0&amp;
               utf8=%E2%9C%93"></http>
       </request>
