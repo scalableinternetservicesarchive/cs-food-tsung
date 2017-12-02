@@ -1,0 +1,6 @@
+m3.medium
+db.m3.medium
+create user default config
+500 errors at the rate of 2 per/s
+
+fix: change db config database.yml to 20 threads
