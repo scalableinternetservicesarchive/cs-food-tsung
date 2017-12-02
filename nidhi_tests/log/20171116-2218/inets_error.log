@@ -1,0 +1,14 @@
+[16/Nov/2017:22:19:02 -0000] access to /csv_data/graphes-Transactions-mean.csv failed for 169.231.118.214, reason: 
+"httpd_file: Can't access /home/ec2-user/.tsung/log/20171116-2218/csv_data/graphes-Transactions-mean.csv: File not found"
+[16/Nov/2017:22:19:02 -0000] access to /csv_data/graphes-Perfs-mean.csv failed for 169.231.118.214, reason: 
+"httpd_file: Can't access /home/ec2-user/.tsung/log/20171116-2218/csv_data/graphes-Perfs-mean.csv: File not found"
+[16/Nov/2017:22:19:02 -0000] access to /csv_data/graphes-Transactions-rate.csv failed for 169.231.118.214, reason: 
+"httpd_file: Can't access /home/ec2-user/.tsung/log/20171116-2218/csv_data/graphes-Transactions-rate.csv: File not found"
+[16/Nov/2017:22:19:02 -0000] access to /csv_data/graphes-Perfs-rate.csv failed for 169.231.118.214, reason: 
+"httpd_file: Can't access /home/ec2-user/.tsung/log/20171116-2218/csv_data/graphes-Perfs-rate.csv: File not found"
+[16/Nov/2017:22:19:02 -0000] access to /csv_data/graphes-Size-rate.csv failed for 169.231.118.214, reason: 
+"httpd_file: Can't access /home/ec2-user/.tsung/log/20171116-2218/csv_data/graphes-Size-rate.csv: File not found"
+[16/Nov/2017:22:19:02 -0000] access to /csv_data/graphes-Users_Arrival-rate.csv failed for 169.231.118.214, reason: 
+"httpd_file: Can't access /home/ec2-user/.tsung/log/20171116-2218/csv_data/graphes-Users_Arrival-rate.csv: File not found"
+[16/Nov/2017:22:19:02 -0000] access to /csv_data/graphes-Users-simultaneous.csv failed for 169.231.118.214, reason: 
+"httpd_file: Can't access /home/ec2-user/.tsung/log/20171116-2218/csv_data/graphes-Users-simultaneous.csv: File not found"
