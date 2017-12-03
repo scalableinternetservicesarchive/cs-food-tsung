@@ -11,7 +11,7 @@
 
   <!-- Server side setup -->
   <servers>
-    <server host="csfoodjack.gjivntpvcb.us-west-2.elasticbeanstalk.com" port="80" type="tcp"></server>
+    <server host="csfoodkirtilt.qcepvp5t4b.us-west-2.elasticbeanstalk.com" port="80" type="tcp"></server>
   </servers>
 
 
