@@ -1,5 +1,3 @@
-<!-- creates user, creates order, picks order -->
-
 <?xml version="1.0"?>
 <!DOCTYPE tsung SYSTEM "/usr/local/share/tsung/tsung-1.0.dtd" [] >
 <tsung loglevel="notice">
