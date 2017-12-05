@@ -9,7 +9,7 @@
 
   <!-- Server side setup -->
   <servers>
-    <server host="csfoodjack.gjivntpvcb.us-west-2.elasticbeanstalk.com" port="80" type="tcp"></server>
+    <server host="csfoodjack1.gjivntpvcb.us-west-2.elasticbeanstalk.com" port="80" type="tcp"></server>
   </servers>
 
 
@@ -65,7 +65,7 @@
       <thinktime value="2" random="true"></thinktime>
       <request subst="true">
         <http url='/orders' version='1.1' method='POST'
-              contents="commit=Save+Order&amp;order%5Btext%5D=%%_oname%%&amp;order%5Btitle%5D=%%_oname%%&amp;order%5Bitem_1_text%5D=%%_item1%%&amp;order%5Bitem_2_text%5D=%%_item2%%&amp;order%5Bitem_3_text%5D=%%_item3%%&amp;order%5Bitem_4_text%5D=chocolate&amp;order%5Bitem_5_text%5D=pizza&amp;order%5Bitem_1%5D=&amp;order%5Bitem_2%5D=&amp;order%5Bitem_3%5D=&amp;order%5Bitem_4%5D=&amp;order%5Bitem_5%5D="></http>
+              contents="commit=Save+Order&amp;order%5Btext%5D=%%_oname%%&amp;order%5Btitle%5D=%%_oname%%&amp;order%5Bitem_1_text%5D=%%_item1%%&amp;order%5Bitem_2_text%5D=%%_item2%%&amp;order%5Bitem_3_text%5D=%%_item3%%&amp;order%5Bitem_4_text%5D=chocolate&amp;order%5Bitem_5_text%5D=pizza"></http>
       </request>
     </session>
   </sessions>
